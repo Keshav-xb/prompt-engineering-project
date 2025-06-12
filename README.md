@@ -64,6 +64,6 @@ This self-initiated project demonstrates how prompt engineering can transform ba
 ## 📬 Connect with Me
 
 **Keshav Sharma**  
-[LinkedIn] (https://www.linkedin.com/in/keshav-sharma-b15270257)| Prompt Engineer & AI Explorer  
+[LinkedIn] ( https://www.linkedin.com/in/keshav-sharma-b15270257 )| Prompt Engineer & AI Explorer  
 Open to AI internships | Freelance prompt writing | Collab opportunitiesrompt-engineering-project
 A practical portfolio project demonstrating prompt engineering for real-world use cases.
