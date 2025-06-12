@@ -1,4 +1,4 @@
-💡 Prompt Engineering Project – Smart Prompt Design
+## 💡 Prompt Engineering Project – Smart Prompt Design
 
 > 🚀 A real-world AI project focused on building powerful and reusable prompts for productivity, content creation, and business use cases using ChatGPT (GPT-4).
 
